@@ -3,7 +3,7 @@
 📧 Email Analysis - LetsDefend Challenge
 
 Overview
-- I completed the Email Analysis challenge on LetsDefend, where I got hands-on experience analyzing a suspicious email. The goal was to check the email headers, look at the attachments, and figure out if the email was part of a phishing attempt or malware attack.
+I completed the Email Analysis challenge on LetsDefend, where I got hands-on experience analyzing a suspicious email. The goal was to check the email headers, look at the attachments, and figure out if the email was part of a phishing attempt or malware attack.
 
 What I Did
 1. Checked the Email – Looked at the sender, recipient, subject, and other email details.
